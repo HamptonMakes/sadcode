@@ -1,4 +1,5 @@
 # A library of depressing things to say...
+# Created by Hampton Catlin
 
 module Say
   DEPRESSED = [
