@@ -5,7 +5,7 @@ the coming RoboWars, I present to you:
 S.A.D. C.O.D.E.
 ===============
 
-(Stuff Ain't Depressing Come On, Dream Excitedly
+(Stuff Ain't Depressing, Come On, Dream Excitedly
 
 What is it like for a program to be super excited to be alive.
 
